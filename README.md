@@ -30,12 +30,10 @@ Thomas High School is still in second place however by a much smaller margin.
     The Math and Reading grades all remained the same except for Thomas High School's 9th graders which are nan due to being corrupted. Below are the Math results however the reading scores had similar changes. 
     
         Before THS 9th graders were removed:
-        
-![Math_By_grade_pre](https://user-images.githubusercontent.com/90511014/141720318-a3274919-e0c5-4063-a6af-eaf5d1d7b9b5.png)
+     ![Math_By_grade_pre](https://user-images.githubusercontent.com/90511014/141720318-a3274919-e0c5-4063-a6af-eaf5d1d7b9b5.png)
     
         After THS 9th Graders were removed:
-        
-![Math_By_Grade_post](https://user-images.githubusercontent.com/90511014/141720310-02de24cb-d5ef-4fb1-849c-1f64c95a0689.png)
+     ![Math_By_Grade_post](https://user-images.githubusercontent.com/90511014/141720310-02de24cb-d5ef-4fb1-849c-1f64c95a0689.png)
     - Scores by school spending
     Scores by school spending are not perceptible when rounding. However, when looking at the numbers which are not as rounded there is a slight change in group that spends $630-644 per student.
     
